@@ -7,7 +7,7 @@ int main()
  while(m!=0)
  {
      temp=m%10;
-     printf("%d",temp);
+     printf(" \n %d",temp);
      m=m/10;
  }
  return 0;
